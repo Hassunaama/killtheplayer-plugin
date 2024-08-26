@@ -1,7 +1,7 @@
 name: kysplugin
 version: '1.0'
 main: fi.assyt.kysplugin.MainClass
-api-version: '1.13'
+api-version: '1.16'
 commands:
   kys:
     description: it... kills you
