@@ -1,1 +1,1 @@
-downloads at [modrinth](https://modrinth.com/plugin/kysplugin)
+downloads at [modrinth](https://modrinth.com/project/killtheplayer-plugin)
