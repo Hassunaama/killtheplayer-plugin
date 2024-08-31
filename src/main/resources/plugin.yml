@@ -1,4 +1,5 @@
-name: kysplugin
+name: killtheplayer-plugin
+description: it adds a command that... kills you
 version: '1.0'
 main: fi.assyt.kysplugin.MainClass
 api-version: '1.16'
